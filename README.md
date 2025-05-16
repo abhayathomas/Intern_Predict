@@ -25,7 +25,7 @@ To get started with the Combined Project, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/dev-Ar5haD/prediction_project.git
+   git clone https://github.com/abhayathomas/intern_predict.git
    cd prediction_project
    ```
 
